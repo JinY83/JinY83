@@ -5,9 +5,9 @@
 
 <div align="left">
 
-# 소개 👋
+# 소개 
 <br>
-🌱 빅데이터 분석을 배우고 있어요.<br>
+🌱 저는 지금 빅데이터 분석을 배우는 중이랍니다.<br>
  : Big data, Python <br>
 
 ![gif](https://c.tenor.com/ykaBF7v0ivMAAAAd/%EC%B6%98%EC%8B%9D%EC%9D%B4-%EC%B6%98%EC%8B%9D.gif)

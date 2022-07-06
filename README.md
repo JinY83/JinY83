@@ -34,8 +34,5 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianna1201&layout=compact)](https://github.com/brianna1201/github-readme-stats)
-
-[![Brianna1201's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianna1201&theme=swift)](https://github.com/brianna1201/github-readme-stats)
 
 </div>

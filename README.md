@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=welcome&fontSize=90&desc=Bobae's%20GitHub%20Profile&descAlignY=65)
@@ -6,9 +6,9 @@
 <div align="center">
 
 # Hello, I'm Jin! 👋
-Wannabe Front Quant <br>
+<br>
 🌱 I’m currently learning:<br>
-Quant, Big data, Machine Learning, Deep Learning, Python
+Big data, Python
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrianna1201%2Fhit-counter&count_bg=%23E1DCD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/brianna1201)
 
@@ -30,7 +30,6 @@ Quant, Big data, Machine Learning, Deep Learning, Python
 
 ### ☁️ SNS List ☁️
 <a href="https://www.instagram.com/byobyo_run/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://byobyomanager.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory-E1DCD9?style=flat-square&logoColor=white"/></a>
 
 <br>
 

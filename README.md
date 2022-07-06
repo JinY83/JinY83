@@ -8,10 +8,7 @@
 # 소개 👋
 <br>
 🌱 빅데이터 분석을 배우고 있어요.<br>
-..................<br>
-Big data, Python
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrianna1201%2Fhit-counter&count_bg=%23E1DCD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/brianna1201)
+ : Big data, Python <br>
 
 ![gif](https://c.tenor.com/ykaBF7v0ivMAAAAd/%EC%B6%98%EC%8B%9D%EC%9D%B4-%EC%B6%98%EC%8B%9D.gif)
 

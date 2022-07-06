@@ -1,18 +1,19 @@
-### Hello! 👋
+## Hello, I'm Jin!! 👋
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=welcome&fontSize=90&desc=Bobae's%20GitHub%20Profile&descAlignY=65)
 
-<div align="center">
+<div align="left">
 
-# Hello, I'm Jin! 👋
+# 소개 👋
 <br>
-🌱 I’m currently learning:<br>
+🌱 빅데이터 분석을 배우고 있어요.<br>
+..................<br>
 Big data, Python
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrianna1201%2Fhit-counter&count_bg=%23E1DCD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/brianna1201)
 
-![gif](http://file3.instiz.net/data/file3/2018/02/05/c/5/a/c5adcba1c6a2462eca8f31e670768b2e.gif)
+![gif](https://c.tenor.com/ykaBF7v0ivMAAAAd/%EC%B6%98%EC%8B%9D%EC%9D%B4-%EC%B6%98%EC%8B%9D.gif)
 
 <br>
 
@@ -29,7 +30,6 @@ Big data, Python
 <br>
 
 ### ☁️ SNS List ☁️
-<a href="https://www.instagram.com/byobyo_run/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <br>
 

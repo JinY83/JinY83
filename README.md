@@ -1,7 +1,7 @@
 ## Hello, I'm Jin!! 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Nice%20to%20Meet%20You&fontSize=80&desc=Welcome%20to%20JinY%27s%20GitHub&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Nice%20to%20Meet%20You&fontSize=80&desc=Welcome%20to%20JinY%27s%20GitHub&descAlignY=70)
 
 <div align="left">
 
